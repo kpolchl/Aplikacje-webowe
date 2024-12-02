@@ -1,0 +1,18 @@
+body, html {
+    margin: 0;  
+    padding: 0; 
+    overflow: hidden; 
+}
+
+canvas {
+    display: block;
+    background-image: url('board-bg.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+}
+
+#crosshair {
+    position: absolute;
+    pointer-events: none;
+       
+}

@@ -1,0 +1,27 @@
+.stopwatch{
+    scale: 100%;
+    width: 600px;
+    margin: 10% auto;
+    padding: 10% 0;
+    color: black;
+    text-align: center;
+    background-color: black;
+    box-shadow: 1px 0px 4px 2px #9c9a9a;
+    border-radius: 20px;
+}
+
+#time{
+    color:beige;
+    font-size: 100px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: beige;
+    border-radius: 6px;
+    margin: 5px;
+
+}
+body{
+    background-color: rgb(41, 38, 38);
+}
